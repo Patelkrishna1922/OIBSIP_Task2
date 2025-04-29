@@ -17,7 +17,7 @@ This is a **Personal Portfolio** created as part of the Oasis Infobyte Web Devel
 
 ## 🔗 Live Demo
 
-[Live](https://patelkrishna1922.github.io/OIBSIP_Task2/)
+👉 [Click here to view the live site](https://patelkrishna1922.github.io/OIBSIP_Task2/)
 
 # About Website
 
